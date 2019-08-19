@@ -1,3 +1,4 @@
+# 使用了marked https://github.com/markedjs/marked 实现的markdown编辑器
 # vue-Markdown编辑器
 
 [在线示例地址](https://zhaoxuhui1122.github.io/vue-markdown/)
